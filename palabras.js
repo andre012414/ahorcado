@@ -1,0 +1,1 @@
+const words = ['real madrid','barcelona', 'atletico de madrid','girona','real sociedad','albacete','valencia','osasuna','betis','rayo vallecano','villareal','getafe','almeria','granada','celta','sevilla','alaves','las palmas','chealse','braga'];
